@@ -58,3 +58,9 @@ node_modules/
 *.temp
 *.swp
 *~
+
+# Native and packaged build outputs
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
